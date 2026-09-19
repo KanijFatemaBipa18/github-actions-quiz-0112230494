@@ -17,7 +17,7 @@ jobs:
 
       - name: Install pytest
         run: pip install pytest
-        - name: Install pytest
+      - name: Install pytest
         run: pip install pytest
 
       - name: Show Python version
